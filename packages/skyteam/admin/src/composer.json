@@ -1,0 +1,13 @@
+{
+    "name": "skyteam/admin",
+    "description": "Admin template for website",
+    "type": "project",
+    "license": "SOC",
+    "authors": [
+        {
+            "name": "Duc",
+            "email": "duchamhd@gmail.com"
+        }
+    ],
+    "require": {}
+}

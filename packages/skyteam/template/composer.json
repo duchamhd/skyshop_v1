@@ -1,0 +1,11 @@
+{
+    "name": "skyteam/template",
+    "description": "Template for skyshop",
+    "authors": [
+        {
+            "name": "skyteam",
+            "email": "skyteam@gmail.com"
+        }
+    ],
+    "require": {}
+}

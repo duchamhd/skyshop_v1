@@ -1,0 +1,12 @@
+{
+    "name": "skyteam/shoppingcart",
+    "description": "Shopping Cart",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Skyteam",
+            "email": "skyteamweb1@gmail.com"
+        }
+    ],
+    "require": {}
+}
